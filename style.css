@@ -1,0 +1,47 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+.top-image{
+	width: 100%;
+	height: 100%;
+}
+.carousel-item{
+	width: 200px;
+	height: 500px;
+}
+
+.navbar-custom {
+    background-color: #864747;
+}
+.cont{
+	margin-top: 30px;
+}
+.containers-title{
+	text-align: center;
+	font-family: 'Parisienne', cursive;
+	font-weight: bold;
+	font-size: 3rem;
+	color: #864747;
+}
+.hr1{
+width: 10%;
+margin-bottom: 20px;
+border-color: #864747;
+}
+.navbar-brand{
+	font-family: 'Parisienne', cursive;
+	font-size: 3rem;
+}
+.h5text{
+	font-weight: lighter;
+	font-size: 3rem;
+	background-color: #3e2723;
+	font-family: 'Lobster', cursive;
+}
+.card-body{
+background-color: #864747;
+}
+.card-text{
+	color: white;
+	font-family: 'Lobster', cursive;
+}
